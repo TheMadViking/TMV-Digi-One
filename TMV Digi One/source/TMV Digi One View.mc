@@ -42,7 +42,7 @@ class TMVDigiOneView extends Ui.WatchFace {
  var heart_rate = 199;
  var hStr;
  
-
+//Test to see git changes
     function onLayout(dc) {
     	medcustomFont = Ui.loadResource(Rez.Fonts.POFont);
 //    	AlgerianFont = Ui.loadResource(Rez.Fonts.AlgerianFont);
