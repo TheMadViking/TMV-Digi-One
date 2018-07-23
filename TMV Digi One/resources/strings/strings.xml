@@ -1,0 +1,24 @@
+<strings>
+    <string id="AppName">NewProject</string>
+    
+    <string id="HourColorTitle">Hour Color</string>
+    <string id="MinuteColorTitle">Minute Color</string>
+    <string id="ColonColorTitle">Colon Color</string>
+    <string id="PadHourTitle">Pad Hour with Leading Zero</string>
+    <string id="BattCircleTitle">Enable Circle for battery Indication</string>
+    <string id="bcThickTitle">Set Battery Circle Thickness in Pixels</string>
+    <string id="Batt100ColorTitle">Battery 76% - 100% Color</string>
+    <string id="Batt75ColorTitle">Battery 51% - 75% Color</string>
+    <string id="Batt50ColorTitle">Battery 26% - 50% Color</string>
+    <string id="Batt25ColorTitle">Battery 10% - 25% Color</string>
+    <string id="Batt10ColorTitle">Battery less than 10% Color</string>
+    
+     
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorYellow">Yellow</string>    
+</strings>

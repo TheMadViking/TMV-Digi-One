@@ -1,0 +1,23 @@
+  <string id="AppName">NewProject</string>
+    
+    <string id="CustomFontTitle">Custom Font</string>
+    <string id="HourColorTitle">Hour Color</string>
+    <string id="MinuteColorTitle">Minute Color</string>
+    <string id="ColonColorTitle">Colon Color</string>
+    <string id="PadHourTitle">Pad Hour with Leading Zero</string>
+    
+    <string id="POFont">Default</string>
+    <string id="AlgerianFont">Algerian</string>
+    <string id="ArailRoundedMTBoldFont">Arial Rounded MT Bold</string>
+    <string id="CooperBlackFont">Cooper Black</string>
+    <string id="HaettenschweilerFont">Haettenscheiler</string>
+    <string id="ImpactFont">Impact</string>
+    
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorYellow">Yellow</string>    
+</strings>

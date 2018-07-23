@@ -1,0 +1,9 @@
+<properties>
+
+    <property id="customFont" type="number">1</property>
+    <property id="HourColor" type="number">0xFFFFFF</property>
+    <property id="MinuteColor" type="number">0x109AD7</property>
+    <property id="ColonColor" type="number">0xFFFFFF</property>
+    <property id="PadHour" type="boolean">false</property>
+
+</properties>

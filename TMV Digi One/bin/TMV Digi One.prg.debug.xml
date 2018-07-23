@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="46" pc="268435456" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="47" pc="268435460" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="54" pc="268435503" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="56" pc="268435546" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="57" pc="268435589" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="58" pc="268435632" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="59" pc="268435675" symbol="onLayout"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="62" pc="268435719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="63" pc="268435723" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="65" pc="268435759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="66" pc="268435796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="67" pc="268435833" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="68" pc="268435870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="69" pc="268435907" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="70" pc="268435944" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="71" pc="268435981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="72" pc="268436018" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="73" pc="268436055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="74" pc="268436092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="75" pc="268436129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="76" pc="268436166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="77" pc="268436203" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="79" pc="268436220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="80" pc="268436256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="84" pc="268436268" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="85" pc="268436281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="86" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="87" pc="268436369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="88" pc="268436396" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="90" pc="268436432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="91" pc="268436443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="92" pc="268436462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="93" pc="268436473" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="94" pc="268436492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="95" pc="268436503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="96" pc="268436522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="97" pc="268436533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="99" pc="268436552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="102" pc="268436568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="103" pc="268436579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="104" pc="268436611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="105" pc="268436631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="106" pc="268436739" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="108" pc="268436805" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="109" pc="268436899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="110" pc="268436935" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="119" pc="268436998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="120" pc="268437015" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="122" pc="268437025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="123" pc="268437050" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="124" pc="268437061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="125" pc="268437071" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="126" pc="268437082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="128" pc="268437106" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="130" pc="268437117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="133" pc="268437130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="134" pc="268437143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="138" pc="268437161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="157" pc="268437177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="158" pc="268437209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="159" pc="268437252" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="160" pc="268437284" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="161" pc="268437294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="162" pc="268437322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="163" pc="268437350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="165" pc="268437363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="166" pc="268437395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="167" pc="268437463" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="168" pc="268437495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="169" pc="268437557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="170" pc="268437589" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="173" pc="268437702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="174" pc="268437746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="182" pc="268437822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="183" pc="268437832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="184" pc="268437835" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="185" pc="268437846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="186" pc="268437882" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="187" pc="268437948" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="188" pc="268437984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="191" pc="268438021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="192" pc="268438057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="193" pc="268438117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="194" pc="268438153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="199" pc="268438181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="200" pc="268438192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="205" pc="268438228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="206" pc="268438248" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="207" pc="268438255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="208" pc="268438268" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="211" pc="268438339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="212" pc="268438356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="215" pc="268438372" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="218" pc="268438397" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="219" pc="268438430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="220" pc="268438440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="221" pc="268438453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="222" pc="268438489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="223" pc="268438555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="226" pc="268438612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="227" pc="268438629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="228" pc="268438639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="229" pc="268438675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="230" pc="268438738" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="231" pc="268438774" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="232" pc="268438802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="235" pc="268438830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="236" pc="268438854" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="242" pc="268438899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="244" pc="268438909" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="249" pc="268438945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="250" pc="268438996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="254" pc="268439072" symbol="onHide"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="256" pc="268439077" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One View.mc" lineNum="258" pc="268439082" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="5" pc="268439088" symbol="initialize"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="6" pc="268439092" symbol="initialize"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="10" pc="268439111" symbol="onStart"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="14" pc="268439116" symbol="onStop"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="18" pc="268439121" symbol="getInitialView"/>
+<entry filename="C:\\Users\\eric\\git\\TMV-Digi-One\\TMV Digi One\\.\\source\\TMV Digi One App.mc" lineNum="19" pc="268439125" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="42" pc="268439163" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="46" pc="268439175" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="47" pc="268439338" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="48" pc="268439363" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="49" pc="268439415" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="52" pc="268439461" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="27" symbol="Batt25ColorTitle"/>
+<entry field="true" id="41" symbol="medcustomFont"/>
+<entry field="true" id="22" symbol="Batt75ColorTitle"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="54" symbol="bckgrnd"/>
+<entry field="true" id="67" symbol="timeFormat"/>
+<entry field="true" id="21" symbol="ColorBlue"/>
+<entry field="true" id="35" symbol="Batt10ColorTitle"/>
+<entry field="true" id="39" symbol="customFont"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="38" symbol="MinuteColorTitle"/>
+<entry field="true" id="37" symbol="ColorGreen"/>
+<entry field="true" id="53" symbol="hour12"/>
+<entry field="true" id="25" symbol="ColorYellow"/>
+<entry field="true" id="36" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="14" symbol="phoneIcon"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="26" symbol="ColonColorTitle"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="40" symbol="selectedFont"/>
+<entry id="9" object="true" symbol="TMVDigiOneView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="49" symbol="bmpPhone"/>
+<entry field="true" id="15" symbol="msgIcon"/>
+<entry id="10" object="true" symbol="TMVDigiOneApp"/>
+<entry field="true" id="31" symbol="ColorRed"/>
+<entry field="true" id="48" symbol="bmpBattery"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="63" symbol="battColor75"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="64" symbol="battColor50"/>
+<entry field="true" id="59" symbol="enBattCircle"/>
+<entry field="true" id="61" symbol="battColor"/>
+<entry field="true" id="65" symbol="battColor25"/>
+<entry field="true" id="66" symbol="battColor10"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="47" symbol="bmpHeart"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="16" symbol="msg2Icon"/>
+<entry field="true" id="51" symbol="bmpMsg2"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="50" symbol="bmpMsg"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="57" symbol="ColonColor"/>
+<entry field="true" id="60" symbol="battThickness"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="23" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="17" symbol="alarmIcon"/>
+<entry field="true" id="55" symbol="HourColor"/>
+<entry field="true" id="44" symbol="CooperFont"/>
+<entry field="true" id="13" symbol="heartIcon"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="19" symbol="POFont"/>
+<entry field="true" id="20" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="52" symbol="bmpAlarm"/>
+<entry field="true" id="58" symbol="PadHour"/>
+<entry field="true" id="33" symbol="bcThickTitle"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="24" symbol="BattCircleTitle"/>
+<entry field="true" id="62" symbol="battColor100"/>
+<entry field="true" id="32" symbol="Batt100ColorTitle"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="43" symbol="ArialFont"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="30" symbol="PadHourTitle"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="45" symbol="HaettenFont"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="34" symbol="Batt50ColorTitle"/>
+<entry field="true" id="56" symbol="MinColor"/>
+<entry field="true" id="68" symbol="heart_rate"/>
+<entry field="true" id="69" symbol="hStr"/>
+<entry field="true" id="42" symbol="AlgerianFont"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="46" symbol="ImpactFont"/>
+<entry field="true" id="29" symbol="HourColorTitle"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435719" name="dc" stackId="1" startPc="268435456"/>
+<entry endPc="268438018" name="dateWidth" stackId="20" startPc="268437846"/>
+<entry endPc="268438181" name="dateWidth" stackId="21" startPc="268438021"/>
+<entry endPc="268438336" name="hr" stackId="23" startPc="268438255"/>
+<entry endPc="268439071" name="colX" stackId="15" startPc="268435723"/>
+<entry endPc="268439071" name="xposHr" stackId="26" startPc="268435723"/>
+<entry endPc="268439071" name="hourX" stackId="13" startPc="268435723"/>
+<entry endPc="268439071" name="countWidth" stackId="29" startPc="268435723"/>
+<entry endPc="268439071" name="timeWidth" stackId="12" startPc="268435723"/>
+<entry endPc="268439071" name="device_settings" stackId="2" startPc="268435723"/>
+<entry endPc="268439071" name="battery" stackId="4" startPc="268435723"/>
+<entry endPc="268439071" name="scrnHeight" stackId="3" startPc="268435723"/>
+<entry endPc="268439071" name="clockTime" stackId="7" startPc="268435723"/>
+<entry endPc="268439071" name="minWidth" stackId="10" startPc="268435723"/>
+<entry endPc="268439071" name="alarms" stackId="18" startPc="268435723"/>
+<entry endPc="268439071" name="strBatt" stackId="5" startPc="268435723"/>
+<entry endPc="268439071" name="msgCount" stackId="32" startPc="268435723"/>
+<entry endPc="268439071" name="hrWidth" stackId="24" startPc="268435723"/>
+<entry endPc="268439071" name="battWidth" stackId="6" startPc="268435723"/>
+<entry endPc="268439071" name="steps" stackId="28" startPc="268435723"/>
+<entry endPc="268439071" name="sample" stackId="22" startPc="268435723"/>
+<entry endPc="268439071" name="hours" stackId="8" startPc="268435723"/>
+<entry endPc="268439071" name="countEnd" stackId="31" startPc="268435723"/>
+<entry endPc="268439071" name="hrTotWidth" stackId="25" startPc="268435723"/>
+<entry endPc="268439071" name="hourWidth" stackId="9" startPc="268435723"/>
+<entry endPc="268439071" name="info" stackId="27" startPc="268435723"/>
+<entry endPc="268439071" name="today" stackId="16" startPc="268435723"/>
+<entry endPc="268439071" name="minX" stackId="14" startPc="268435723"/>
+<entry endPc="268439071" name="dateString" stackId="17" startPc="268435723"/>
+<entry endPc="268439071" name="colWidth" stackId="11" startPc="268435723"/>
+<entry endPc="268439071" name="countStart" stackId="30" startPc="268435723"/>
+<entry endPc="268439071" name="dateEnd" stackId="19" startPc="268435723"/>
+<entry endPc="268439072" name="dc" stackId="1" startPc="268435719"/>
+<entry endPc="268439116" name="state" stackId="1" startPc="268439111"/>
+<entry endPc="268439121" name="state" stackId="1" startPc="268439116"/>
+<entry endPc="268439478" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268439175"/>
+<entry endPc="268439478" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268439175"/>
+<entry endPc="268439479" name="dc" stackId="1" startPc="268439163"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="onLayout" parent="TMVDigiOneView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="TMVDigiOneView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TMVDigiOneView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="TMVDigiOneView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="TMVDigiOneView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TMVDigiOneApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="TMVDigiOneApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="TMVDigiOneApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="TMVDigiOneApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="TMVDigiOneApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="426" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="465" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="718" parentId="globals" symbolId="TMVDigiOneView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

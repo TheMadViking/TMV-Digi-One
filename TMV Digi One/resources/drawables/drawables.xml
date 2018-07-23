@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="heartIcon" filename="HeartIcon2.png" />
+    <bitmap id="phoneIcon" filename="phone.png" />
+    <bitmap id="msgIcon" filename="speech-bubble.png" />
+    <bitmap id="msg2Icon" filename="message.png" />
+    <bitmap id="alarmIcon" filename="AlarmRed25.png" />
+</drawables>

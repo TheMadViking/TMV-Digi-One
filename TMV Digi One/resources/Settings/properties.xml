@@ -1,0 +1,15 @@
+<properties>
+
+    <property id="customFont" type="number">1</property>
+    <property id="HourColor" type="number">0xFFFFFF</property>
+    <property id="MinuteColor" type="number">0x109AD7</property>
+    <property id="ColonColor" type="number">0xFFFFFF</property>
+    <property id="PadHour" type="boolean">false</property>
+    <property id="battCircle" type="boolean">false</property>
+    <property id="batt100" type="number">0x008000</property>
+	<property id="batt75" type="number">0x008000</property>
+	<property id="batt50" type="number">0xFFFF00</property>
+	<property id="batt25" type="number">0xFFFF00</property>
+	<property id="batt10" type="number">0xFF0000</property>
+	<property id="bcThickness" type="number">10</property>
+</properties>
